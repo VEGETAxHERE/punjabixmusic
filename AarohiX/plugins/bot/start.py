@@ -28,16 +28,16 @@ from config import BANNED_USERS, AYUV
 from strings import get_string
 
 ANNIE_VID = [
-    "hhttps://te.legra.ph/file/dea69b6de713db64628d5.jpg",
-    "https://te.legra.ph/file/cbdc7b55600c7f7c982be.jpg",
-    "https://graph.org/file/f76fd86d1936d45a63c64.jpg",
-    "https://te.legra.ph/file/799211ecd1dfb26d70ea0.jpg",
-    "https://te.legra.ph/file/6d585197af34afd4bb740.jpg",
-    "https://te.legra.ph/file/8020cf0424c438f36dafb.jpg",
-    "https://te.legra.ph/file/88d38fe8a1d4560a3b6e5.jpg",
-    "https://te.legra.ph/file/501a638b8917f978e7e1d.jpg",
-    "https://te.legra.ph/file/67b3cbaa39ca5b8c68633.jpg",
-    "https://te.legra.ph/file/31b8d89e7bde2b1b53871.jpg"
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+    "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg"
 ]
 
 STICKERS = [
@@ -45,6 +45,8 @@ STICKERS = [
     "CAACAgUAAx0CfL_LsAACCSRl_oru7uW8WAt3-L1pYQWe_1mxawACQw8AAj78MVeb3v2OFvEnNB4E",
     "CAACAgEAAx0Cd6nKUAACATVl_rtAi9KCVQf8vcUC4FMDUfLP8wACHQEAAlEpDTnhphyRDaTrPR4E",
     "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
+    "CAACAgUAAxkBAAEEjuxmXEmUzXvpnKkRVQ3W1ce-fF47HAACWwkAAgUKWFc_UnMsFUhhnzUE",
+    "CAACAgUAAxkBAAEEj5hmXemwSblScMgtfu3_AfxrriQ1SQACrAkAAjWjUVUooe4aAjhddDUE",
 
 ]
 
