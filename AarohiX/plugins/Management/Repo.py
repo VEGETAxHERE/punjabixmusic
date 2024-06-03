@@ -27,18 +27,18 @@ async def start(_, msg):
           InlineKeyboardButton("⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/queen_suportgroup"),
-          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Its_queen_tg"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/II_classymusic_II"),
+          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_stylish_dpz_ll"),
         ],
         [
-          InlineKeyboardButton("ᴍᴜsɪᴄ ʙᴏᴛ ʀᴇᴘᴏ", url=f"https://github.com/KRISHtg/queenmusicbot"),
+          InlineKeyboardButton("ᴍᴜsɪᴄ ʙᴏᴛ ʀᴇᴘᴏ", url=f"https://graph.org/file/5d38f3e7f57e5e1f6f8ed.mp4"),
         ]
     ]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/1a3783eaa832b3d9645cc.jpg",
+        photo="https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
         caption=start_txt,
         reply_markup=reply_markup,
     )
@@ -62,7 +62,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[ʀᴇᴘᴏ](https://github.com/KRISHtg/queenmusicbot) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/queen_suportgroup)
+        text = f"""[ʀᴇᴘᴏ](https://graph.org/file/5d38f3e7f57e5e1f6f8ed.mp4) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/ll_stylish_dpz_ll)
 | ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs |
 ----------------
 {list_of_users}"""
