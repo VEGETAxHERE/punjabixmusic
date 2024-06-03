@@ -212,7 +212,7 @@ HELP_23 = """
  ❍ /tmute <userhandle x(m/h/d) ➠ mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle> ➠ unmutes a user. Can also be used as a reply, muting the replied to user.
 
- ❍ sᴘᴇᴄɪᴀʟ ᴄᴏᴍᴍᴀɴᴅs ➠ Krish 𝚋𝚊𝚗 , Krish 𝚖𝚞𝚝𝚎 , Krish 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌.
+ ❍ sᴘᴇᴄɪᴀʟ ᴄᴏᴍᴍᴀɴᴅs ➠ classy 𝚋𝚊𝚗 , classy 𝚖𝚞𝚝𝚎 , classy 𝚙𝚛𝚘𝚖𝚘𝚝𝚎 ..... 𝚎𝚝𝚌.
  """
 HELP_24 = """
  ✽ <b>sᴇᴀʀᴄʜ ⏤͟͟͞͞★</b>
