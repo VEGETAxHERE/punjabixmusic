@@ -95,8 +95,7 @@ async def helper_cb(client, CallbackQuery, _):
     if cb == "hb9":
         if CallbackQuery.from_user.id not in SUDOERS:
             return await CallbackQuery.answer(
-                "❤️𝙥𝙝𝙚𝙡𝙚 𝙜𝙧𝙤𝙪𝙥 𝙥𝙚 𝙖𝙙𝙙 𝙠𝙖𝙧𝙤 𝙘𝙡𝙖𝙨𝙨𝙮 𝙢𝙪𝙨𝙞𝙘 𝙠𝙤
- ❤️❤️", show_alert=True
+                "😎sudo allowed only 😆😆", show_alert=True
             )
         else:
             await CallbackQuery.edit_message_text(helpers.HELP_9, reply_markup=keyboard)
