@@ -27,8 +27,8 @@ async def start(_, msg):
           InlineKeyboardButton("⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/II_classymusic_II"),
-          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_stylish_dpz_ll"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/Pb_20wale"),
+          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Pb_20wale"),
         ],
         [
           InlineKeyboardButton("ᴍᴜsɪᴄ ʙᴏᴛ ʀᴇᴘᴏ", url=f"https://te.legra.ph/file/5dfaddc9f0bdc9a561d56.mp4"),
@@ -38,7 +38,7 @@ async def start(_, msg):
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://graph.org/file/84c0de2a54bf34e2a8de6.jpg",
+        photo="https://telegra.ph/file/8f813be98a4f90c80d398.jpg",
         caption=start_txt,
         reply_markup=reply_markup,
     )
@@ -62,7 +62,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[ʀᴇᴘᴏ](https://graph.org/file/5d38f3e7f57e5e1f6f8ed.mp4) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/ll_stylish_dpz_ll)
+        text = f"""[ʀᴇᴘᴏ](https://graph.org/file/5d38f3e7f57e5e1f6f8ed.mp4) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/Pb_20wale)
 | ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs |
 ----------------
 {list_of_users}"""
