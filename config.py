@@ -23,9 +23,9 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-OWNER_ID = int(getenv("OWNER_ID", "7023366604"))
+OWNER_ID = int(getenv("OWNER_ID", "6950479280"))
 
-BOT_USERNAME = getenv("BOT_USERNAME" , "ClassyMusicX2_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Punjabmusic_bot")
 
 COMMAND_HANDLER = getenv("COMMAND_HANDLER", "! / .").split()
 
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/VEGETAxHERE/musicxvegeta2",
+    "https://github.com/VEGETAxHERE/punjabixmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_stylish_dpz_ll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/II_classymusic_II")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Pb_20wale")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Pb_20wale")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -96,13 +96,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/8f813be98a4f90c80d398.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/8f813be98a4f90c80d398.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/6d585197af34afd4bb740.jpg"
-STATS_IMG_URL = "https://graph.org/file/84c0de2a54bf34e2a8de6.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/8f813be98a4f90c80d398.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/9e14789c344a3c983aca5.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/9e14789c344a3c983aca5.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/6d585197af34afd4bb740.jpg"
